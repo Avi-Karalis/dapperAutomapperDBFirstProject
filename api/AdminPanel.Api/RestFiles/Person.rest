@@ -1,0 +1,37 @@
+﻿###
+POST http://localhost:5025/dotnetapi/person/list
+Content-Type: application/json
+Accept: :application/json
+
+{
+    "filters":[
+        {
+            "Field": "name",
+            "Value": "skata",
+            "ConstraintOperator": "="
+        },
+        {
+            "Field": "id",
+            "Value": "12",
+            "ConstraintOperator": ">"
+        },
+        {
+            "Field": "id",
+            "Value": "20",
+            "ConstraintOperator": "<="
+        }
+    ],
+    "Page":1,
+    "PerPage":20,
+    "SortOrder": "desc",
+    "SortField": "id"
+}
+
+###
+POST http://localhost:5025/dotnetapi/person/get
+Content-Type: application/json
+Accept: :application/json
+
+{
+
+}

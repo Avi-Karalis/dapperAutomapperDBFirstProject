@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qd6PgDmZjJYbJw3kZTiEYW/PZqsXnvPP5dTshKzs3Ng=",
+  "Source": "RequestTransformer",
+  "BasePath": "_content/RequestTransformer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

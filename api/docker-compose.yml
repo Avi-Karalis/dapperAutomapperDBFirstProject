@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  webapi:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: adminpanel
+    ports:
+      - "5025:5025"
+      - "5026:5026"
+    environment:
+      ASPNETCORE_HTTP: "http://0.0.0.0:5025"
+      DB_HOST: 10.50.2.19
+      DB_PORT: 3306
+      DB_NAME: msc_core_next_dev
+      DB_USERNAME: stagemymarketplaceuser
+      DB_PASSWORD: HKWjd4CQy72m9Mea
+      # ASPNETCORE_Kestrel__Certificates__Default__Password: "yourpassword"
+      # ASPNETCORE_Kestrel__Certificates__Default__Path: "/https/your-cert.pfx"
+    volumes:
+      - ./certs:/https

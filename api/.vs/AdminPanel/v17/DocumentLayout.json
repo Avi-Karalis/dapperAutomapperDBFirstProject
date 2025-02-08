@@ -1,0 +1,346 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.api\\restfiles\\auth.rest||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|solutionrelative:adminpanel.api\\restfiles\\auth.rest||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.api\\controllers\\identity_authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|solutionrelative:adminpanel.api\\controllers\\identity_authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85C994-1F46-4557-B2D8-3BD2C2B7FC08}|AdminPanel.Service\\AdminPanel.Service.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.service\\dependencyresolver\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85C994-1F46-4557-B2D8-3BD2C2B7FC08}|AdminPanel.Service\\AdminPanel.Service.csproj|solutionrelative:adminpanel.service\\dependencyresolver\\services.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85C994-1F46-4557-B2D8-3BD2C2B7FC08}|AdminPanel.Service\\AdminPanel.Service.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.service\\interfaces\\iidentity_tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85C994-1F46-4557-B2D8-3BD2C2B7FC08}|AdminPanel.Service\\AdminPanel.Service.csproj|solutionrelative:adminpanel.service\\interfaces\\iidentity_tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB4B58B-9F95-4602-BBF7-19CDDCE2642F}|AdminPanel.ModelsAndRepository\\AdminPanel.ModelsAndRepository.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.modelsandrepository\\interfaces\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB4B58B-9F95-4602-BBF7-19CDDCE2642F}|AdminPanel.ModelsAndRepository\\AdminPanel.ModelsAndRepository.csproj|solutionrelative:adminpanel.modelsandrepository\\interfaces\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB4B58B-9F95-4602-BBF7-19CDDCE2642F}|AdminPanel.ModelsAndRepository\\AdminPanel.ModelsAndRepository.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.modelsandrepository\\repositories\\pc_tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB4B58B-9F95-4602-BBF7-19CDDCE2642F}|AdminPanel.ModelsAndRepository\\AdminPanel.ModelsAndRepository.csproj|solutionrelative:adminpanel.modelsandrepository\\repositories\\pc_tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB4B58B-9F95-4602-BBF7-19CDDCE2642F}|AdminPanel.ModelsAndRepository\\AdminPanel.ModelsAndRepository.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.modelsandrepository\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB4B58B-9F95-4602-BBF7-19CDDCE2642F}|AdminPanel.ModelsAndRepository\\AdminPanel.ModelsAndRepository.csproj|solutionrelative:adminpanel.modelsandrepository\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.api\\mappers\\personmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|solutionrelative:adminpanel.api\\mappers\\personmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85C994-1F46-4557-B2D8-3BD2C2B7FC08}|AdminPanel.Service\\AdminPanel.Service.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.service\\services\\pc_tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85C994-1F46-4557-B2D8-3BD2C2B7FC08}|AdminPanel.Service\\AdminPanel.Service.csproj|solutionrelative:adminpanel.service\\services\\pc_tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CB4B58B-9F95-4602-BBF7-19CDDCE2642F}|AdminPanel.ModelsAndRepository\\AdminPanel.ModelsAndRepository.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.modelsandrepository\\dependencyresolver\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CB4B58B-9F95-4602-BBF7-19CDDCE2642F}|AdminPanel.ModelsAndRepository\\AdminPanel.ModelsAndRepository.csproj|solutionrelative:adminpanel.modelsandrepository\\dependencyresolver\\repositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.api\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|solutionrelative:adminpanel.api\\mappers\\usermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.api\\mappers\\uploadmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|solutionrelative:adminpanel.api\\mappers\\uploadmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.api\\mappers\\requestermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|solutionrelative:adminpanel.api\\mappers\\requestermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.api\\mappers\\identitytokenmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|solutionrelative:adminpanel.api\\mappers\\identitytokenmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB85C994-1F46-4557-B2D8-3BD2C2B7FC08}|AdminPanel.Service\\AdminPanel.Service.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB85C994-1F46-4557-B2D8-3BD2C2B7FC08}|AdminPanel.Service\\AdminPanel.Service.csproj|solutionrelative:adminpanel.service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|solutionrelative:adminpanel.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.api\\dtos\\usergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|solutionrelative:adminpanel.api\\dtos\\usergetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.api\\dtos\\persongetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|solutionrelative:adminpanel.api\\dtos\\persongetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|c:\\users\\avi\\source\\workrepos\\admin\\api\\adminpanel.api\\dtos\\personupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACB6870C-F489-4786-8690-FB213EE1F5B1}|AdminPanel.Api\\AdminPanel.Api.csproj|solutionrelative:adminpanel.api\\dtos\\personupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Services.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Service\\DependencyResolver\\Services.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Service\\DependencyResolver\\Services.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Service\\DependencyResolver\\Services.cs",
+              "RelativeToolTip": "AdminPanel.Service\\DependencyResolver\\Services.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA2wA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:55:55.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Repositories.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.ModelsAndRepository\\DependencyResolver\\Repositories.cs",
+              "RelativeDocumentMoniker": "AdminPanel.ModelsAndRepository\\DependencyResolver\\Repositories.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.ModelsAndRepository\\DependencyResolver\\Repositories.cs",
+              "RelativeToolTip": "AdminPanel.ModelsAndRepository\\DependencyResolver\\Repositories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:53:59.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IIdentity_TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Service\\Interfaces\\IIdentity_TokenService.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Service\\Interfaces\\IIdentity_TokenService.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Service\\Interfaces\\IIdentity_TokenService.cs",
+              "RelativeToolTip": "AdminPanel.Service\\Interfaces\\IIdentity_TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:53:27.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pc_TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Service\\Services\\Pc_TokenService.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Service\\Services\\Pc_TokenService.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Service\\Services\\Pc_TokenService.cs",
+              "RelativeToolTip": "AdminPanel.Service\\Services\\Pc_TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:52:58.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pc_TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.ModelsAndRepository\\Repositories\\Pc_TokenRepository.cs",
+              "RelativeDocumentMoniker": "AdminPanel.ModelsAndRepository\\Repositories\\Pc_TokenRepository.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.ModelsAndRepository\\Repositories\\Pc_TokenRepository.cs",
+              "RelativeToolTip": "AdminPanel.ModelsAndRepository\\Repositories\\Pc_TokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:52:34.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.ModelsAndRepository\\Interfaces\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "AdminPanel.ModelsAndRepository\\Interfaces\\ITokenRepository.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.ModelsAndRepository\\Interfaces\\ITokenRepository.cs",
+              "RelativeToolTip": "AdminPanel.ModelsAndRepository\\Interfaces\\ITokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:52:20.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\Mappers\\PersonMapper.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Api\\Mappers\\PersonMapper.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\Mappers\\PersonMapper.cs",
+              "RelativeToolTip": "AdminPanel.Api\\Mappers\\PersonMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:52:01.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.ModelsAndRepository\\Models\\Token.cs",
+              "RelativeDocumentMoniker": "AdminPanel.ModelsAndRepository\\Models\\Token.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.ModelsAndRepository\\Models\\Token.cs",
+              "RelativeToolTip": "AdminPanel.ModelsAndRepository\\Models\\Token.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:29:07.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Identity_AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\Controllers\\Identity_AuthController.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Api\\Controllers\\Identity_AuthController.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\Controllers\\Identity_AuthController.cs",
+              "RelativeToolTip": "AdminPanel.Api\\Controllers\\Identity_AuthController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAiwCcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:26:57.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auth.rest",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\RestFiles\\Auth.rest",
+              "RelativeDocumentMoniker": "AdminPanel.Api\\RestFiles\\Auth.rest",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\RestFiles\\Auth.rest",
+              "RelativeToolTip": "AdminPanel.Api\\RestFiles\\Auth.rest",
+              "ViewState": "AgIAACQAAAAAAAAAAAAywAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-06T11:32:22.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\Mappers\\UserMapper.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Api\\Mappers\\UserMapper.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\Mappers\\UserMapper.cs",
+              "RelativeToolTip": "AdminPanel.Api\\Mappers\\UserMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:52:05.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UploadMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\Mappers\\UploadMapper.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Api\\Mappers\\UploadMapper.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\Mappers\\UploadMapper.cs",
+              "RelativeToolTip": "AdminPanel.Api\\Mappers\\UploadMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:52:04.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RequesterMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\Mappers\\RequesterMapper.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Api\\Mappers\\RequesterMapper.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\Mappers\\RequesterMapper.cs",
+              "RelativeToolTip": "AdminPanel.Api\\Mappers\\RequesterMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T09:52:03.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IdentityTokenMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\Mappers\\IdentityTokenMapper.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Api\\Mappers\\IdentityTokenMapper.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\Mappers\\IdentityTokenMapper.cs",
+              "RelativeToolTip": "AdminPanel.Api\\Mappers\\IdentityTokenMapper.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T11:39:24.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\DTOs\\UserGetDto.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Api\\DTOs\\UserGetDto.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\DTOs\\UserGetDto.cs",
+              "RelativeToolTip": "AdminPanel.Api\\DTOs\\UserGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:46:14.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Api\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AdminPanel.Api\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAjwCcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:46:11.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersonGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\DTOs\\PersonGetDto.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Api\\DTOs\\PersonGetDto.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\DTOs\\PersonGetDto.cs",
+              "RelativeToolTip": "AdminPanel.Api\\DTOs\\PersonGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:45:51.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PersonUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\DTOs\\PersonUpdateDto.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Api\\DTOs\\PersonUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Api\\DTOs\\PersonUpdateDto.cs",
+              "RelativeToolTip": "AdminPanel.Api\\DTOs\\PersonUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:45:39.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Service\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "AdminPanel.Service\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\AdminPanel.Service\\Services\\AuthService.cs",
+              "RelativeToolTip": "AdminPanel.Service\\Services\\AuthService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T10:37:31.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

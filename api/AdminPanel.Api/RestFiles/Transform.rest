@@ -1,0 +1,24 @@
+﻿###
+POST http://localhost:5025/api/apitransform/receive-and-transform
+Content-Type: application/json
+Accept: application/json
+
+{
+  "SortField": "name",
+  "SortOrder": "desc",
+  "Filters": {
+    "age": {
+      "Operator": "AND",
+      "Constraints": [
+        { "Value": "30", "MatchMode": "greaterThan" },
+        { "Value": "50", "MatchMode": "lessThan" }
+      ]
+    },
+    "status": {
+      "Operator": "OR",
+      "Constraints": [
+        { "Value": "active", "MatchMode": "equals" }
+      ]
+    }
+  }
+}

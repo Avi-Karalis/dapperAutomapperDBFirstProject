@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "RequestTransformer": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:51785;http://localhost:51786"
+    }
+  }
+}

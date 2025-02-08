@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "XeMl99N6zFHKv9PAjqoZcUvoqTqb+V6Kx/F6Nu/ysEw=",
+  "Source": "AdminPanel.Api",
+  "BasePath": "_content/AdminPanel.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Avi\\source\\workRepos\\admin\\api\\RequestTransformer\\RequestTransformer.csproj",
+      "Version": 2,
+      "Source": "RequestTransformer",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

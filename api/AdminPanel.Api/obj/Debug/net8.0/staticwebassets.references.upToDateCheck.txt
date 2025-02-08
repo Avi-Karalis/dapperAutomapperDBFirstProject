@@ -1,0 +1,7 @@
+C:\Marketplace\dev\admin_panel\api\RequestTransformer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Marketplace\dev\admin_panel\api\RequestTransformer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Marketplace\dev\admin_panel\api\RequestTransformer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Marketplace\dev\admin_panel\api\RequestTransformer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Marketplace\dev\admin_panel\api\RequestTransformer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Marketplace\dev\admin_panel\api\RequestTransformer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Avi\source\workRepos\admin\api\RequestTransformer\obj\Debug\net8.0\staticwebassets.build.json

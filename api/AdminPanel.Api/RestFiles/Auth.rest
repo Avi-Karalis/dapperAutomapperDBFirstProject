@@ -1,0 +1,47 @@
+﻿###
+POST http://localhost:5025/dotnetapi/pc_auth/getRequesterResponse
+Content-Type: application/json
+Accept: application/json
+
+{
+  "clientId": "5ea9f731-07ef-4b90-8804-bb1d6370dbba",
+  "dev": true
+}
+
+###
+POST http://localhost:5025/dotnetapi/pc_auth/createFakeToken
+Content-Type: application/json
+Accept: application/json
+
+{
+  "clientId": "5ea9f731-07ef-4b90-8804-bb1d6370dbba"
+}
+
+###
+POST http://localhost:5025/dotnetapi/pc_auth/checkToken
+Content-Type: application/json
+Accept: application/json
+
+{
+  "clientId": "5ea9f731-07ef-4b90-8804-bb1d6370dbba",
+  "dev": true
+}
+
+###
+POST http://localhost:5025/dotnetapi/pc_auth/impersonate
+Content-Type: application/json
+Accept: application/json
+
+{
+  "user_id": "10847028488765188931",
+  "idtomasquarade": "6905875246776648666"
+}
+
+###
+POST http://localhost:5025/dotnetapi/pc_auth/impersonateleave
+Content-Type: application/json
+Accept: application/json
+
+{
+  "user_id": "10847028488765188931"
+}
